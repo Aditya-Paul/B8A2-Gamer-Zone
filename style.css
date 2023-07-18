@@ -1,0 +1,51 @@
+/* Navbar Section */
+nav{
+    width: 100%;
+}
+.text_clr{
+    color: rgba(255,66,165,1);
+}
+.navbar_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.title_part,.link_part{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 15px;
+}
+.link_part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 15px; 
+}
+.link_part a{
+    color: black;
+    font-size: 18px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.follow_us{
+    color: black;
+    width: 260px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    margin-left: 10px;
+}
+.banner_sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 15px; 
+}
+.banner_content{
+    background-image:url(./);
+}
