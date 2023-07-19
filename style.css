@@ -142,6 +142,7 @@ background-clip: text;
 .game_img_div{
     width: 250px;
     height: 400px;
+    position: relative;
 }
 .game_img{
     width: 250px;
